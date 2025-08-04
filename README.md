@@ -1,4 +1,4 @@
-# Ultimate Travel App
+# Ultimate Budget Travel Planner
 
 A budget-friendly travel planning application that helps users find and compare routes across various transportation modes, build itineraries, and export them.
 
